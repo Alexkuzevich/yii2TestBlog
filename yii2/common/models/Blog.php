@@ -50,6 +50,7 @@ class Blog extends \yii\db\ActiveRecord
             'url' => 'ЧПУ',
             'status_id' => 'Статус',
             'sort' => 'Сортировка',
+            'user_id' => 'ID пользователя',
         ];
     }
 }
